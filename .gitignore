@@ -1,0 +1,26 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Log files
+*.log
+
+# Unnecessary macOS files
+__MACOSX/
+.DS_Store
+
+# Large databases
+*.db
+
+# Large datasets
+data/sales.csv
+data/purchases.csv
+
+# Temporary files
+*.tmp
+
+# Environment variables
+.env
